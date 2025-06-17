@@ -1,3 +1,3 @@
-# keywordLocationiQuerying
+# keySpatialQuerying
 
-This is the official implementation of the keyword location querying. 
+This is the official implementation of the key-spatial querying algorithm. 
